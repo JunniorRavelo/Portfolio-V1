@@ -67,7 +67,7 @@
     </section>
 
     <!-- Proyectos -->
-    <section id="proyectos" class="proyectos-recientes seccion-clara d-flex flex-column">
+    <section id="actividad" class="proyectos-recientes seccion-clara d-flex flex-column">
       <h2 class="seccion-titulo texto-negro">Actividad reciente</h2>
       <h3 class="seccion-descripcion">Estos son algunos proyectos y modulos que he creado y/o colaborado recientemente...</h3>
 
