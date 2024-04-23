@@ -4,7 +4,7 @@
 <head>
   <!-- Metadatos -->
   <meta charset="utf-8">
-  <meta name="author" content="Jane Doe">
+  <meta name="author" content="Junnior Santiago Ravelo Velasco">
   <meta name="description" content="Portafolio de Jr Ravelo">
   <meta name="keywords" content="HTML, CSS, JavaScript, React">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -69,7 +69,7 @@
             <a class="nav-link" href="#actividad">Actividad</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">CV</a>
+            <a class="nav-link" href="https://jrravelo.site/curriculumvitae/">Curriculum</a>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
