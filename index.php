@@ -77,7 +77,7 @@
           <!-- Proyecto 1 -->
           <div class="col-12 col-md-6 col-lg-4">
             <div class="proyecto">
-              <img src="resources/Task_p1.jpeg" alt="Proyecto 1">
+              <img src="resources/proyecto1.svg" alt="Proyecto 1">
               <div class="overlay">
                 <p>Proyecto 1</p>
                 <div class="iconos-contenedor">
@@ -95,7 +95,7 @@
           <!-- Proyecto 2 -->
           <div class="col-12 col-md-6 col-lg-4">
             <div class="proyecto">
-              <img src="resources/proyecto2.png" alt="Proyecto 1">
+              <img src="resources/proyecto2.svg" alt="Proyecto 1">
               <div class="overlay">
                 <p>Proyecto 2</p>
                 <div class="iconos-contenedor">
@@ -112,7 +112,7 @@
           <!-- Proyecto 3 -->
           <div class="col-12 col-md-6 col-lg-4">
             <div class="proyecto">
-              <img src="resources/proyecto3.png" alt="Proyecto 1">
+              <img src="resources/proyecto3.svg" alt="Proyecto 1">
               <div class="overlay">
                 <p>Proyecto 3</p>
                 <div class="iconos-contenedor">
@@ -129,7 +129,7 @@
           <!-- Proyecto 4 -->
           <div class="col-12 col-md-6 col-lg-4">
             <div class="proyecto">
-              <img src="resources/proyecto4.png" alt="Proyecto 1">
+              <img src="resources/proyecto4.svg" alt="Proyecto 1">
               <div class="overlay">
                 <p>Proyecto 4</p>
                 <div class="iconos-contenedor">
@@ -146,7 +146,7 @@
           <!-- Proyecto 5 -->
           <div class="col-12 col-md-6 col-lg-4">
             <div class="proyecto">
-              <img src="resources/proyecto5.png" alt="Proyecto 1">
+              <img src="resources/proyecto5.svg" alt="Proyecto 1">
               <div class="overlay">
                 <p>Proyecto 5</p>
                 <div class="iconos-contenedor">
@@ -163,7 +163,7 @@
           <!-- Proyecto 6 -->
           <div class="col-12 col-md-6 col-lg-4">
             <div class="proyecto">
-              <img src="resources/proyecto6.png" alt="Proyecto 1">
+              <img src="resources/proyecto6.svg" alt="Proyecto 1">
               <div class="overlay">
                 <p>Proyecto 6</p>
                 <div class="iconos-contenedor">
@@ -182,7 +182,7 @@
 
       <a href="https://github.com/JunniorRavelo" target="_blank" rel="noopener noreferrer">
         <button type="button" class="btn btn-info">
-          Ver más proyectos
+          Ver más
           <i class="bi bi-arrow-right-circle-fill"></i>
         </button>
       </a>
@@ -293,12 +293,12 @@
               ¡Hablemos!
             </div>
             <div class="col-12 col-md-4 descripcion">
-              Especializado en desarrollo web y desktop. Contactame para convertir tu visión en realidad.
+            Comprometido con el aprendizaje continuo y la innovación diaria. <br>Estoy listo para colaborar en tu próximo proyecto.
             </div>
             <div class="col-12 col-md-4">
               <a href="mailto:dev.jrsantiagoravelo@gmail.com">
                 <button type="button">  
-                  Contacto
+                  Contacto 
                   <i class="bi bi-envelope-check-fill"></i>
                 </button>
               </a>

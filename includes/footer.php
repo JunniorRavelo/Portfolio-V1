@@ -1,7 +1,7 @@
 <!-- Pie de pagina (footer) -->
 <footer class="seccion-oscura d-flex flex-column align-items-center justify-content-center">
   <img class="footer-logo" src="resources/icono-blanco.svg" alt="Logo del portafolio">
-  <p class="footer-texto text-center">Aprendo y creo todos los días.<br>Creemos un proyecto juntos.</p>
+  <p class="footer-texto text-center">Constantemente me nutro de aprendizaje y creatividad, impulsando mi desarrollo diario. Estoy entusiasmado por colaborar contigo en la creación de un proyecto conjunto.</p>
   <div class="iconos-redes-sociales d-flex flex-wrap align-items-center justify-content-center">
     <a href="https://wa.me/573202947007" target="_blank" rel="noopener noreferrer">
       <i class="bi bi-whatsapp"></i>
