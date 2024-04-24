@@ -1,0 +1,76 @@
+/* barra lateral izquiera static */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100px; /* Ancho de la barra lateral */
+    height: 100vh; /* Altura igual al 100% del viewport */
+    background-color: #333;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.sidebar-btn {
+    padding: 10px 10px;
+    margin-bottom: 10px;
+    background-color: #555;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.sidebar-btn:hover {
+    background-color: #777;
+}
+
+
+
+/* contenido central */
+.content {
+    margin-left: 120px; /* Ajuste del margen izquierdo para evitar superposición */
+    padding: 20px;
+    max-width: calc(100vw - 100px);
+}
+
+/* card-generales */
+.card {
+    padding: 1rem;
+    border: 1rem;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/* card historial laboral */
+.card-work-history-bloque-fecha {
+    border: 5px solid black;
+    padding: 30px;
+    display: flex;
+    justify-content: center; /* Centrar horizontalmente */
+    align-items: center; /* Centrar verticalmente */
+}
+
+
+
+/* responsive */
+@media screen and (max-width: 768px) {
+    .sidebar {
+        width: 80px; /* Ancho reducido para pantallas pequeñas */
+    }
+
+    .sidebar-btn {
+        padding: 8px 16px; /* Ajustes para botones más pequeños */
+    }
+
+    .content {
+        margin-left: 80px; /* Ajustes para el margen del contenido */
+    }
+}
