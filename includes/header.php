@@ -73,12 +73,12 @@
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-              Contactame
+              Contacto
             </a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="#">WhatsApp</a></li>
-              <li><a class="dropdown-item" href="#">Email</a></li>
-              <li><a class="dropdown-item" href="#">GitHub</a></li>
+              <li><a class="dropdown-item" href="https://wa.me/573202947007"><i class="bi bi-whatsapp"></i> WhatsApp</a></li>
+              <li><a class="dropdown-item" href="mailto:dev.jrsantiagoravelo@gmail.com"><i class="bi bi-envelope"></i> Email</a></li>
+              <li><a class="dropdown-item" href="https://www.linkedin.com/in/jrravelo/"><i class="bi bi-linkedin"></i> Linkedin</a></li>
             </ul>
           </li>
         </ul>
