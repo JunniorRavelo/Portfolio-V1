@@ -69,7 +69,7 @@
             <a class="nav-link" href="#actividad">Actividad</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="https://jrravelo.site/curriculumvitae/">Curriculum</a>
+            <a class="nav-link" href="/webportfolio/curriculumvitae/">Curriculum</a>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
