@@ -79,7 +79,7 @@
             <div class="proyecto">
               <img src="resources/proyecto1.svg" alt="Proyecto 1">
               <div class="overlay">
-                <p>Proyecto 1</p>
+                <p>Lista de tareas PHP</p>
                 <div class="iconos-contenedor">
                   <a href="https://github.com/JunniorRavelo" target="_blank" rel="noopener noreferrer">
                     <i class="bi bi-github"></i>
@@ -97,7 +97,7 @@
             <div class="proyecto">
               <img src="resources/proyecto2.svg" alt="Proyecto 1">
               <div class="overlay">
-                <p>Proyecto 2</p>
+                <p>Moodle LMS</p>
                 <div class="iconos-contenedor">
                   <a href="https://github.com/JunniorRavelo" target="_blank" rel="noopener noreferrer">
                     <i class="bi bi-github"></i>
@@ -114,7 +114,7 @@
             <div class="proyecto">
               <img src="resources/proyecto3.svg" alt="Proyecto 1">
               <div class="overlay">
-                <p>Proyecto 3</p>
+                <p>Node.js Puppeteer</p>
                 <div class="iconos-contenedor">
                   <a href="https://github.com/JunniorRavelo" target="_blank" rel="noopener noreferrer">
                     <i class="bi bi-github"></i>
@@ -131,7 +131,7 @@
             <div class="proyecto">
               <img src="resources/proyecto4.svg" alt="Proyecto 1">
               <div class="overlay">
-                <p>Proyecto 4</p>
+                <p>Gestion de inventario JVM</p>
                 <div class="iconos-contenedor">
                   <a href="https://github.com/JunniorRavelo" target="_blank" rel="noopener noreferrer">
                     <i class="bi bi-github"></i>
@@ -148,7 +148,7 @@
             <div class="proyecto">
               <img src="resources/proyecto5.svg" alt="Proyecto 1">
               <div class="overlay">
-                <p>Proyecto 5</p>
+                <p>Normalizador .wav Tensorflow</p>
                 <div class="iconos-contenedor">
                   <a href="https://github.com/JunniorRavelo" target="_blank" rel="noopener noreferrer">
                     <i class="bi bi-github"></i>
@@ -165,7 +165,7 @@
             <div class="proyecto">
               <img src="resources/proyecto6.svg" alt="Proyecto 1">
               <div class="overlay">
-                <p>Proyecto 6</p>
+                <p>Automata (RPA)</p>
                 <div class="iconos-contenedor">
                   <a href="https://github.com/JunniorRavelo" target="_blank" rel="noopener noreferrer">
                     <i class="bi bi-github"></i>
