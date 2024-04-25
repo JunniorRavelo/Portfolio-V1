@@ -81,10 +81,10 @@
               <div class="overlay">
                 <p>Lista de tareas PHP</p>
                 <div class="iconos-contenedor">
-                  <a href="https://github.com/JunniorRavelo" target="_blank" rel="noopener noreferrer">
+                  <a href="https://github.com/JunniorRavelo/phpToDo" target="_blank" rel="noopener noreferrer">
                     <i class="bi bi-github"></i>
                   </a>
-                  <a href="" target="_blank" rel="noopener noreferrer">
+                  <a href="https://jrravelo.site/project_phpToDo/" target="_blank" rel="noopener noreferrer">
                     <i class="bi bi-laptop"></i>
                   </a>
                 </div>
