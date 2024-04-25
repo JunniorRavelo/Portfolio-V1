@@ -1,6 +1,6 @@
 <!-- Pie de pagina (footer) -->
 <footer class="seccion-oscura d-flex flex-column align-items-center justify-content-center">
-  <img class="footer-logo" src="resources/icono-blanco.svg" alt="Logo del portafolio">
+  <img class="footer-logotipo" src="resources/logotipo.svg" alt="Logo del portafolio">
   <p class="footer-texto text-center">Constantemente me nutro de aprendizaje y creatividad, impulsando mi desarrollo diario. Estoy entusiasmado por colaborar contigo en la creación de un proyecto conjunto.</p>
   <div class="iconos-redes-sociales d-flex flex-wrap align-items-center justify-content-center">
     <a href="https://wa.me/573202947007" target="_blank" rel="noopener noreferrer">
@@ -28,6 +28,7 @@
 </footer>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+<script src="/script.js"></script>
 </body>
 
 </html>

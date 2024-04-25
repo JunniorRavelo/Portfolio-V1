@@ -6,7 +6,7 @@
       <div class="hero-principal d-flex flex-column justify-content-center align-items-center">
         <img class="hero-imagen-desarrollador rounded-circle photo-perfil" src="resources/imagenes-desarrolladores/desarrollador-ejemplo.svg" alt="Foto de Junnior Ravelo">
         <h1>Hola, soy Jr Ravelo :)</h1>
-        <h2>Desarrollador de sitios web y desktop.</h2>
+        <h2>Freelance especializado en el desarrollo de aplicaciones web y de escritorio.</h2>
       </div>
       <div class="hero-inferior">
         <img class="hero-inferior-imagen img-fluid" src="resources/hero-inferior.svg" alt="Monitor, laptop y logos de HTML, CSS, JavaScript y React.">
@@ -16,8 +16,8 @@
     <!-- Sobre mi -->
     <section id="sobre-mi" class="sobre-mi seccion-oscura">
       <div class="contenedor">
-        <h2 class="seccion-titulo">Conoce a Jr Ravelo</h2>
-        <p class="seccion-texto">Jr Ravelo es un desarrollador de software especializado en aplicaciones web y de escritorio. Con una pasión por la creación de soluciones tecnológicas innovadoras, Jr combina habilidades técnicas sólidas con una creatividad excepcional para desarrollar software que cumple con los más altos estándares de calidad y usabilidad. Con experiencia en el diseño, desarrollo e implementación de sistemas robustos y escalables, Jr está comprometido a ofrecer productos que satisfagan las necesidades específicas de sus clientes. Además, posee un profundo conocimiento en diversas tecnologías y lenguajes de programación, lo que le permite abordar una amplia gama de proyectos con eficacia y precisión.</p>
+        <h2 class="seccion-titulo">Acerca de Jr Ravelo</h2>
+        <p class="seccion-texto">Jr Ravelo es un desarrollador de software con experiencia en el diseño y desarrollo de aplicaciones web y de escritorio. Apasionado por la creación de soluciones tecnológicas prácticas, Jr combina habilidades técnicas sólidas con creatividad para desarrollar software funcional y fácil de usar. Con conocimientos en diversas tecnologías y lenguajes de programación, se dedica a construir sistemas robustos y escalables que satisfagan las necesidades de sus clientes. Su enfoque se centra en ofrecer productos de calidad que resuelvan problemas de manera eficiente y precisa.</p>
       </div>      
     </section>
 

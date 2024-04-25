@@ -1,7 +1,7 @@
 /* Barra de navegacion */
 
 .navbar {
-  padding: 2rem;
+  padding: 10px;
   background-color: #f5f6f7;
 }
 
@@ -333,10 +333,11 @@ footer {
   min-height: 500px;
 }
 
-.footer-logo {
-  height: 80px;
-  width: 80px;
+.footer-logotipo {
+  height: 150px;
+  width: 150px;
   margin: 10px;
+  background-color: transparent ;
 }
 
 .footer-texto {

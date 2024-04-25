@@ -26,40 +26,19 @@
 
 <body>
 
-  <!-- Barra de navegacion --
-    <nav class="navbar navbar-expand-md navbar-light">
-      <div class="container-fluid">
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-toggler" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbar-toggler">
-          <a class="navbar-brand" href="#">
-            <img src="imagenes/icono.png" width="50" alt="Logo de la página web">
-          </a>
-          <ul class="navbar-nav d-flex justify-content-center align-items-center">
-            <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#sobre-mi">Sobre mí</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#proyectos">Proyectos</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#testimonios">Testimonios</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#contacto">Contacto</a>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </nav>-->
+  <!-- Barra de navegacion -->
 
   <nav class="navbar navbar-expand-lg bg-body-tertiary fixed-top">
+
+
     <div class="container-fluid">
+
       <a class="navbar-brand" href="#">Logo</a>
+
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
+
       <div class="collapse navbar-collapse" id="navbarNavDropdown">
         <ul class="navbar-nav">
           <li class="nav-item">
@@ -68,9 +47,10 @@
           <li class="nav-item">
             <a class="nav-link" href="#actividad">Actividad</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="https://jrravelo.site/curriculumvitae/">Curriculum</a>
+          <li class="nav-item disabled">
+            <a class="nav-link disabled" href="https://jrravelo.site/curriculumvitae/" tabindex="-1" aria-disabled="true">Curriculum</a>
           </li>
+
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
               Contacto
