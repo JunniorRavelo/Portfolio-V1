@@ -180,7 +180,7 @@
         </div>
       </div>
 
-      <a href="https://github.com/JunniorRavelo" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/JunniorRavelo?tab=repositories" target="_blank" rel="noopener noreferrer">
         <button type="button" class="btn btn-info">
           Ver más
           <i class="bi bi-arrow-right-circle-fill"></i>
