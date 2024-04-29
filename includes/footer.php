@@ -17,18 +17,10 @@
     </a>
   </div>
   <div class="derechos-de-autor">By Junnior Santiago Ravelo Velasco (2024) &#169;</div>
-
-  <!--
-      <div class="footer-texto">
-        <small>Desarrollado con</small>
-        <i class="bi bi-bootstrap"></i>
-        <small>Bootstrap</small>
-      </div>
--->
 </footer>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
-<script src="/script.js"></script>
+<script src="script.js"></script>
 </body>
 
 </html>

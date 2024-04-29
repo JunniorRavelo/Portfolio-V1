@@ -93,13 +93,16 @@ h1 {
 
 .sobre-mi {
   height: 500px;
-  padding: 10px;
+  padding: 20px;
+  margin: 10px;
 }
 
 .sobre-mi .contenedor {
-  max-width: 600px;
+  max-width: 800px;
   text-align: center;
 }
+
+
 
 /* Experiencia */
 
@@ -337,7 +340,7 @@ footer {
   height: 150px;
   width: 150px;
   margin: 10px;
-  background-color: transparent ;
+  background-color: transparent;
 }
 
 .footer-texto {
@@ -381,6 +384,7 @@ footer {
   padding: 20px;
 }
 
+
 /* Adaptable (Responsivo) */
 
 @media screen and (max-width: 400px) {
@@ -413,5 +417,18 @@ footer {
 @media screen and (min-width: 700px) {
   .hero-inferior-imagen {
     max-width: 600px;
+  }
+}
+
+/* Estilos para dispositivos móviles */
+@media only screen and (max-width: 600px) {
+  .contenedor {
+    padding: 0 20px;
+    /* Añade un padding lateral al contenedor para dar espacio al contenido */
+  }
+
+  .seccion-texto {
+    font-size: 14px;
+    /* Reduce el tamaño del texto para que se ajuste mejor en pantallas pequeñas */
   }
 }
