@@ -2,6 +2,19 @@
 <html lang="es">
 
 <head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-356TG887LX"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'G-356TG887LX');
+  </script>
+
   <!-- Metadatos -->
   <meta charset="utf-8">
   <meta name="author" content="Junnior Santiago Ravelo Velasco">
