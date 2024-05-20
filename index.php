@@ -69,12 +69,14 @@
 <!-- Proyectos -->
 <section id="actividad" class="proyectos-recientes seccion-clara d-flex flex-column">
   <h2 class="seccion-titulo texto-negro">Actividad reciente</h2>
-  <h3 class="seccion-descripcion">Estos son algunos proyectos y modulos que he creado y/o colaborado recientemente...</h3>
+  <!--<h3 class="seccion-descripcion">Estos son algunos proyectos y modulos que he creado y/o colaborado recientemente...</h3>-->
+  <h3 class="seccion-descripcion">Se esta actualizando el portafolio, puedes ver mis repositorios y modulos en GitHub.</h3>
+  
 
   <!-- Galeria de Proyectos -->
   <div class="container text-center proyectos-contenedor">
     <div class="row">
-      <!-- Proyecto 1 -->
+      <!-- Proyecto 1 -
       <div class="col-12 col-md-6 col-lg-4">
         <div class="proyecto">
           <img src="resources/proyecto1.svg" alt="Proyecto 1">
@@ -90,7 +92,7 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
 
       <!-- Proyecto 2 --
           <div class="col-12 col-md-6 col-lg-4">
@@ -183,7 +185,7 @@
 
       <a href="https://github.com/JunniorRavelo?tab=repositories" target="_blank" rel="noopener noreferrer">
         <button type="button" class="btn btn-info">
-          Ver más
+          Ir a GitHub
           <i class="bi bi-arrow-right-circle-fill"></i>
         </button>
       </a>
